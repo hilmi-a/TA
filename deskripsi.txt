@@ -1,0 +1,12 @@
+Klasifikasi pada Mixed Type Audio Menggunakan Decision Tree
+
+
+Mixed Type Audio adalah sebuah berkas audio yang memiliki lebih dari satu jeis suara, misalnya ialah speech yang digabung dengan musik, ataupun digabung dengan suara lingkungan sekitar. 
+Klasifikasi pada Mixed type audio akan membedakan dan menentukan jenis dari sebuah berkas audio digital. Dengan menggunakan ciri/fitur yang didapat dari proses Ekstraksi Ciri pada audio digital, berkas audio tersebut akan dibandingkan Oleh algoritma Klasifikasi dengan contoh data dari setiap kelas pada Mixed Audio Type. Setelah ditemukan kelas yang paling sesuai maka audio tesebut dapat diberi status sebagai anggota dari salah satu kelas, diantaranya kelas audio speech, musik, environtment/non musik atau merupakan audio dengan isi gabungan speech dan musik/environtment.
+Metode Klasifikasi yang digunakan ialah metode klasifikasi dengan Decision Tree. Dengan pertimbangan karena Decision Tree merupakan algoritma klasifikasi yang handal.
+
+
+Mixed Type Audio adalah sebuah berkas audio yang memiliki lebih dari satu jeis suara, misalnya ialah speech yang digabung dengan musik, ataupun digabung dengan suara lingkungan sekitar. 
+Klasifikasi pada Mixed type audio akan membedakan dan menentukan jenis konten dari sebuah berkas audio digital. Dengan menggunakan ciri/fitur yang didapat dari proses Ekstraksi Ciri pada audio digital, berkas audio tersebut akan dibandingkan Oleh algoritma Klasifikasi dengan contoh data dari setiap kelas pada Mixed Audio Type. Setelah ditemukan kelas yang paling sesuai maka audio tesebut dapat diberi status sebagai anggota dari salah satu kelas, diantaranya kelas audio speech, musik, environtment/suara lingkungan atau merupakan audio dengan isi gabungan dari speech dan musik/environtment.
+Metode Klasifikasi yang digunakan ialah metode klasifikasi dengan Decision Tree. Dengan pertimbangan karena Decision Tree merupakan algoritma klasifikasi yang handal.
+Penelitian ini dapat diterapkan sebagai suatu cara alternatif pada pre-processing pada klasifikasi genre musik, maupun pada voice recognition.
